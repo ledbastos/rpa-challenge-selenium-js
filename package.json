@@ -1,0 +1,23 @@
+{
+  "name": "rpa-challenge-selenium-js",
+  "version": "1.0.0",
+  "description": "rpa-challenge-selenium-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledbastos/rpa-challenge-selenium-js.git"
+  },
+  "author": "Luis Eduardo Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledbastos/rpa-challenge-selenium-js/issues"
+  },
+  "homepage": "https://github.com/ledbastos/rpa-challenge-selenium-js#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
